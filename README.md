@@ -1,0 +1,2 @@
+# GZipSample
+ GZipサンプル
